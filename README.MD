@@ -12,3 +12,9 @@ Desarrollar un programa por consola que permita calcular el salario de n emplead
 - Se debe calcular el valor por deducciones (salud y pension) del empleado
 - Se debe mostrar el salario completo del empleado discriminado como colilla de pago
 
+## Mejoras en la aplciación
+- 0: Una vez ingresado los datos base se debe mostrar en consola esta información
+- 1: Una vez ingresado los datos base (valor hora, auxilio transporte, limite horas, etc) debe aparecer un menú que permita seleccionar: 1 Calcular salario Bruto, calcular salario neto, calcular horas extras, etc
+- 2: Cada vez que se calcule un salario, se debe generar un contador para mostrar un promedio salarial al finalizar el día
+- 3: Mejorar la lógica del ciclo para que no muestre salario si no se cumple las condiciones
+
